@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MKarmanto
 - 👀 I’m interested in coding and games
 - 🌱 I’m currently learning Java & C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mkarmanto@gmail.com
 
 <!---
